@@ -1,0 +1,46 @@
+body{
+    padding:0;
+    margin: 0;
+    font-family: sans-serif;
+    background-position: center;
+    background-color: white;
+}
+
+.sign-up-box{
+    width: 300px;
+    padding: 18px;
+    background: rgb(117, 117, 197);
+    box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.3);
+    text-align: center;
+    height: 460px;
+    border-radius: 15px;
+    margin: 8% auto 0;
+    background-color: rgb(11, 14, 19);
+}
+.sign-up-box h1{
+    color: #fff;
+    margin-bottom: 7px;
+}
+.input-box{
+    width: 85%;
+    margin: 10px 0;
+    border-radius: 18px;
+    padding: 10px;
+    outline: none;
+    border: 1px solid #999;
+
+}
+button{
+    color: #000;
+    padding: 15px;
+    font-size: 15px;
+    cursor: pointer;
+    outline: none;
+    width:90%;
+    margin: 10px 0;
+    border: none;
+    border-radius: 18px;
+}
+p{
+    color: #fff;
+}
